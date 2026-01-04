@@ -11,6 +11,13 @@ I’m currently expanding my AI/ML skills and working on a personal project invo
 I’m also <b>fluent in Portuguese, English, and Russian</b>.
 
 
+<h2 align="left">Project Highlights</h2>
+<ul>
+  <li> Fitcoach - Fitness tracking website built with SQLite, enabling users to log workouts and receive personalized nutrition recommendations.</li>
+  <li> Lumora - Crypto Trading Website that integrates CoinGecko and Google Gemini APIs to deliver real-time market data and AI-powered insights.</li>
+  <li> Kuik - E-commerce platform that lets users purchase products, view order history, and manage profile details. </li>
+  <li> Credential builder - Automated credential generator that creates randomized credentials based on user-defined parameters. </li>
+</ul>
 <h2 align="left">Programming Languages</h2>
 
 ###
