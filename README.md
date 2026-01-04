@@ -1,18 +1,15 @@
-<h2 align="left">Hi 👋! My name is Yuriy</h2>
+<h2 align="left">Hi! My name is Yuriy</h2>
 
-###
+### I am a fourth-year Computer Science student studying at York University
 
-<p align="left">I am a fourth-year Computer Science student studying at York University<br><br>I am currently working on a Multi-Model Machine Learning tool to help people break into Stock Trading</p>
+Throughout my studies, I’ve worked across both <b>front-end</b> and <b>back-end development</b>. 
 
-###
+I also have experience in Knowledge Discovery in Databases (KDD) and <b>Data mining</b>, including data cleaning, transformation, reduction, and discretization, as well as building models such as decision trees, decision rules, k-NN, and clustering. 
 
-<h4 align="left">Languages spoken</h4>
+I’m currently expanding my AI/ML skills and working on a personal project involving <b>agentic AI</b>. 
 
-###
+I’m also <b>fluent in Portuguese, English, and Russian</b>.
 
-<p align="left">- Portuguese<br>- Russian<br>- English</p>
-
-###
 
 <h2 align="left">Programming Languages</h2>
 
@@ -105,6 +102,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/consoleuser/consoleuser/output/snake.svg" alt="Snake animation" />
 
 ###
